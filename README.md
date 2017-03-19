@@ -1,3 +1,3 @@
 # TheDynamicUnity_codes
 
-Supercollider and openFrameworks codes for a fixed media piece "The Dynamic Unity", Philip Liu 2017
+Supercollider and openFrameworks codes for the fixed media piece "The Dynamic Unity", Philip Liu 2017
